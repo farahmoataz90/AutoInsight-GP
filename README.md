@@ -1,0 +1,11 @@
+
+| Feature                     | **Our Website (Electronics Retailers Specific)**                 | **CSV Master**                                              | **Vizdium**                                                |
+|-----------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+| **Industry-Specific Analysis** | Tailored analysis for electronics retail businesses           | No industry-specific analysis                                | No industry-specific analysis                               |
+| **Data Upload Support**     |CSV and Excel file uploads                   | CSV and Excel file uploads                            | CSV file uploads only                                       |
+| **Advanced Analytical Tools** | Time series forecasting, machine learning models, detailed explanations | Basic data analysis and visualization tools                 | Primarily visualization without advanced analytics         |
+| **Visualization Tools**     | Industry-focused dashboards: sales trends, inventory, etc.      | Basic visual tools like charts and graphs                    | visual models like bar charts, heat maps         |
+| **Ease of Use**             | Designed for electronics retailers with a user friendly interface for non technical users   | Intuitive for general non-technical users                    | Easy to use with no sign-up required                        |
+| **Custom Analysis**         | Detailed insights specific to electronics retail metrics, ML models | No custom industry insights                                  | No custom analysis, focuses on visualization                |
+| **Sign-Up Requirement**     | Simple account creation needed to ensure tailored reports       | Account required for use                                     | No sign-up required                                         |
+| **Target Users**            | Designed for electronics retailers looking for comprehensive analytics | General users and small businesses                           | Focuses on quick visualization for general users            |
