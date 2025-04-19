@@ -8,14 +8,18 @@
 
 AutoInsight is a powerful data analysis platform that allows users to upload CSV files and generate actionable insights using AI-powered analysis, interactive charts, and visualizations. The platform simplifies complex data exploration, making it easy for both technical and non-technical users to uncover key trends and patterns.
 
+
 ## Features
 
 ### ✅ **CSV File Analysis**
 
+<p align="center">
+  <img src="Mockups/Steps.png" alt="Home Mockup" width="1200">
+</p>
+
 - Upload CSV files for automatic processing.
 
-
-
+  
 ### 🤖 **AI-Powered Chatbot**
 
 - Assists users with data interpretation.
@@ -45,6 +49,19 @@ AutoInsight is a powerful data analysis platform that allows users to upload CSV
 
 - Automatically analyzes datasets and presents key findings.
 - Proactive alerts for significant changes in data.
+  
+###
+
+### 🛠️ **Admin Panel**
+
+<p align="center">
+  <img src="Mockups/AdminPanel.png" alt="Home Mockup" width="1200">
+</p>
+
+- Visualize geographic distribution of users with a heatmap showing the top counties using AutoInsight.
+- Stay up-to-date with new signups, including user profiles.
+- Understand which professional roles are engaging most with the platform — e.g., Data Analysts, Product Managers, or Others.
+- Focus development on your most active user segments
 
 ## How to Use
 
