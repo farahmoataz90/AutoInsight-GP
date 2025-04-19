@@ -1,5 +1,9 @@
 # AutoInsight: AI-Powered Data Analysis Platform
 
+<p align="center">
+  <img src="Home_Mockup.png" alt="Home Mockup" width="1200">
+</p>
+
 ## Overview
 
 AutoInsight is a powerful data analysis platform that allows users to upload CSV files and generate actionable insights using AI-powered analysis, interactive charts, and visualizations. The platform simplifies complex data exploration, making it easy for both technical and non-technical users to uncover key trends and patterns.
