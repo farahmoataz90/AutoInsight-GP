@@ -1,122 +1,196 @@
-#  AutoInsight: Empowering Companies with Instant Data Analytics  
+##  AutoInsight: Empowering Companies with Instant Data Analytics
 
 <p align="center">
-  <img src="Home_Mockup.png" alt="Home Mockup" width="1200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="Home_Mockup.png" alt="Home Mockup" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
-##  **Overview**  
-
-**AutoInsight** is a **cutting-edge data analysis platform** that transforms raw CSV files into **actionable insights** with AI-powered analysis, interactive charts, and stunning visualizations. Designed for **both technical and non-technical users**, it simplifies complex data exploration to uncover trends, patterns, and business opportunities—**instantly!**  
+> **Transform raw CSVs into real business intelligence—no code, just clarity.**
 
 ---
 
-##  **Key Features**  
+##  Overview
 
-### 📂 **1. CSV File Analysis**  
+**AutoInsight** is a **smart data analytics platform** built to simplify how businesses and analysts extract insights from raw CSV files. Powered by **AI**, **machine learning**, and a **dynamic visualization engine**, it makes data exploration fast, accessible, and impactful—even for non-technical users.
+
+---
+
+##  Key Features
+
+###  CSV File Analysis
+
 <p align="center">
-  <img src="Mockups/Steps.png" alt="Steps Mockup" width="1200" style="border: 2px solid #4CAF50; border-radius: 8px;">
-</p>  
+  <img src="Mockups/Steps.png" alt="Home Mockup" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
 
-✔ **Drag & Drop Upload** – Effortlessly upload CSV files for automatic processing.  
-✔ **Smart Data Parsing** – Auto-detects data types, missing values, and anomalies.  
+*  Drag & drop CSV upload
+*  Automatic detection of data types, missing values, outliers
+*  Smart data cleaning suggestions
 
----
+###  AI-Powered Chatbot
 
-### 🤖 **2. AI-Powered Chatbot**  
-<p align="left">
-  <img src="Mockups/Chatbot.png" alt="Chatbot Mockup" width="300" style="border: 2px solid #2196F3; border-radius: 8px; float: right; margin-left: 20px;">
-</p>  
-
-💬 **Ask Anything** – Get instant explanations for charts, trends, and insights.  
- **Smart Recommendations** – AI suggests key findings and business actions.  
- **"Explain Like I’m 5" Mode** – Simplifies complex data for non-technical users.  
-
----
-
-### 📊 **3. Advanced Data Visualization**  
-
- **Interactive Charts** – Scatter plots, pie charts, bar charts, and heatmaps.  
- **Kernel Density Estimation** – Visualize variance and distribution effortlessly.  
- **Correlation Matrix** – Understand relationships with plain-English explanations.  
- **Clustering Analysis** – Group data intuitively with color-coded visuals.  
-
----
-
-### 🔮 **4. Forecasting & Predictive Analysis**  
-
-⏳ **Time Series Forecasting** – ARIMA & ML models for future trends.  
-🧪 **"What-If" Scenarios** – Test predictions by tweaking variables.  
-
----
-
-### ⚡ **5. Autonomous AI Analyst**  
-
-🤯 **Auto-Discover Insights** – No manual work—just instant findings!  
-🚨 **Proactive Alerts** – Get notified about anomalies and key changes.  
-
----
-
-###  **6. Admin Dashboard**  
 <p align="center">
-  <img src="Mockups/AdminPanel.png" alt="Admin Panel" width="1200" style="border: 2px solid #9C27B0; border-radius: 8px;">
-</p>  
+  <img src="Mockups/Chatbot.png" alt="Home Mockup" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
 
- **User Heatmaps** – See where your users are concentrated.  
- **Real-Time Signups** – Track new users with profile details.  
- **Role-Based Analytics** – Know which professionals (Data Analysts, PMs, etc.) engage most.  
+*  Natural language interaction for data questions
+*  "Explain Like I'm 5" mode for non-experts
+*  Smart recommendations for business actions
 
----
+###  Advanced Data Visualization
 
-##  **How to Use AutoInsight?**  
+*  Line/Bar/Pie/Heat/Scatter plots
+*  Interactive dashboards
+*  Correlation matrix & clustering analysis
+*  KDE Plots for variance distribution
 
-1️⃣ **Upload** a CSV file (drag & drop or browse).  
-2️⃣ **Analyze** – AI processes & visualizes data instantly.  
-3️⃣ **Explore** – Discover trends, correlations & forecasts.  
-4️⃣ **Chat** – Ask the AI bot for deeper insights.  
-5️⃣ **Export** – Download reports as CSV or images.  
+### Predictive & Forecasting
 
----
+*  Time-series forecasting (ARIMA, Prophet, etc.)
+*  "What-If" simulations
+*  Trend tracking over time
 
-##  **Tech Stack**  
+###  Admin Dashboard
 
-| **Category**       | **Technologies** |
-|--------------------|-----------------|
-| **Frontend**       | React.js, TailwindCSS |
-| **Backend**        | Python (Flask/Django), FastAPI |
-| **Machine Learning** | Scikit-learn, Pandas, NumPy |
-| **Visualization**  | Matplotlib, Seaborn, Plotly |
-| **AI Chatbot**     | Google Gemini API |
+<p align="center">
+  <img src="Mockups/AdminPanel.png" alt="Home Mockup" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
 
----
-
-##  **Future Roadmap**  
-
-🔹 **Batch Analysis** – Support for multiple CSV uploads.  
-🔹 **Real-Time Data Streaming** – Continuous insights from live data.  
-🔹 **User Dashboards** – Personalized tracking & saved reports.  
+*  User heatmaps
+*  Real-time signups & analytics by user type
+*  Role-based usage metrics
 
 ---
 
-## 🤝 **Want to Contribute?**  
+##  Use Case Scenarios
 
-We welcome **bug reports, feature requests, and pull requests**!  
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223255.png" alt="Home Mockup" width="1000" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
 
-🔹 **Fork** the repo  
-🔹 **Improve** the code/docs  
-🔹 **Submit** a PR  
 
-Let’s make **AutoInsight** even better together! 🎉  
+| **Role**               | **How They Use AutoInsight**                                   |
+| ---------------------- | -------------------------------------------------------------- |
+| **Data Analyst**       | Uploads raw exports, visualizes patterns, gets ML forecasts    |
+| **Product Manager**    | Interacts with chatbot to discover user behavior trends        |
+| **CEO/Founder**        | Gets a dashboard of KPIs and alerts on unusual activity        |
+| **Marketer**           | Analyzes campaign CSV data and segments by performance         |
+| **Non-Technical User** | Uses “Explain Like I’m 5” to understand customer or sales data |
+
+---
+
+##  System Architecture
+
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223140.png" alt="System Architecture" width="1000">
+</p>
+
+**Overview:**
+
+* **Frontend**: React.js + TailwindCSS for responsive UI
+* **Backend**: Python (FastAPI) handles AI, ML, file parsing, and chatbot integration
+* **Database**: PostgreSQL for user & session metadata
+* **File Storage**: Cloud/Local file system (AWS S3 / local disk)
+* **AI**: Google Gemini API + Scikit-learn models
+* **Visualization Engine**: Plotly, Seaborn, Matplotlib
 
 ---
 
-<p align="center" style="color: #FF5722; font-weight: bold;">
-  Transform Your Data into Decisions—Instantly! ✨  
-</p>  
+##  Database Schema
+
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223221.png" alt="System Architecture" width="1000">
+</p>
+
 
 ---
 
-### 🔗 **Connect With Us**  
-📧 Email | 💬 Twitter | 🔗 LinkedIn  
+##  Flow Chart
+
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223314.png" alt="User Flow" width="850">
+</p>
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223335.png" alt="User Flow" width="850">
+</p>
+
+**Flow Summary:**
+
+1. User uploads CSV
+2. Backend parses & stores metadata
+3. AI Engine analyzes & returns insights
+4. Chatbot answers questions based on stored context
+5. User explores visualizations or downloads results
 
 ---
+
+##  Installation & Setup
+
+> **Local Installation (Dev Mode)**
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-repo/autoinsight.git
+cd autoinsight
+
+# 2. Install backend requirements
+cd backend
+pip install -r requirements.txt
+
+# 3. Run FastAPI server
+uvicorn main:app --reload
+
+# 4. Start frontend
+cd ../frontend
+npm install
+npm run dev
+```
+
+> **Note:** You need a valid Google Gemini API key in `.env`.
+
+---
+
+##  Tech Stack
+
+| Category             | Technologies Used                 |
+| -------------------- | --------------------------------- |
+| **Frontend**         | React.js, TailwindCSS             |
+| **Backend**          | FastAPI, Flask (optional), Python |
+| **Database**         | PostgreSQL, SQLAlchemy            |
+| **Visualization**    | Seaborn, Matplotlib, Plotly       |
+| **Machine Learning** | Scikit-learn, Prophet, ARIMA      |
+| **AI Chatbot**       | Google Gemini API                 |
+| **Auth**             | JWT + OAuth (planned)             |
+
+---
+
+
+##  Want to Contribute?
+
+We love community contributions! Here's how you can help:
+
+1.  Fork the repo
+2.  Create a new branch (`feat-new-x`)
+3.  Make changes and test them
+4.  Submit a pull request
+
+Check the [`CONTRIBUTING.md`](CONTRIBUTING.md) for more details.
+
+---
+
+## 📬 Contact & Community
+
+📧 Email: `farahmoataz90@gmail.com`
+🔗 LinkedIn: [AutoInsight](https://www.linkedin.com/in/farah-moataz/)
+
+---
+
+<p align="center">
+  <img src="Documentations/Screenshot 2025-07-16 223447.png" width="800">
+</p>
+
+---
+
+<p align="center" style="font-weight: bold; font-size: 20px;">
+✨ From Raw Data to Real Decisions—With Just One Upload ✨  
+</p>
 
